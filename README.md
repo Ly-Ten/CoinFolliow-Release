@@ -1,1 +1,3 @@
-# CoinFolliow-Release
+# CoinFolliow
+
+Work in progress
